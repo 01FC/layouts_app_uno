@@ -10,3 +10,7 @@ Recuerda que despues de clonar el proyecto, abrir una terminal dentro de la carp
 ```sh
 flutter packages get
 ``` 
+
+## App Screenshot
+
+![App screenshot](Capture.png)
