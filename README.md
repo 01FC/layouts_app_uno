@@ -13,4 +13,4 @@ flutter packages get
 
 ## App Screenshot
 
-![App screenshot](Capture.png)
+![App screenshot](./Capture.png)
