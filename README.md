@@ -13,4 +13,6 @@ flutter packages get
 
 ## App Screenshot
 ...
-![App screenshot](./Capture.png)
+<p>
+    <img src="Capture.png" width="320" height="640" />
+</p>
